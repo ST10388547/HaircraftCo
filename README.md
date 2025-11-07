@@ -2,6 +2,11 @@
 HairCraftCo is a mobile booking app for a barbershop and salon, allowing users to easily book appointments, manage their profiles, receive notifications, and choose their preferred language.
 The app supports both online and offline functionality, real-time notifications, and Firebase Authentication.
 
+#GROUP MEMBERS
+-Nethathe Ambani
+-Munzhelele Arehone
+-Nevhutalu Amphumudzaho
+
 ## ✨ Features
 - 🔐 **SSO Login** – Users can sign in securely using Firebase Authentication.
 - 🌍 **Multi-language Support** – The app supports multiple languages (e.g., English, isiZulu, Afrikaans.) with dynamic locale switching.

@@ -48,5 +48,5 @@ AI assistance was cited appropriately and used ethically for learning and produc
 <img width="1364" height="692" alt="image" src="https://github.com/user-attachments/assets/e62d395f-4f17-4958-a801-bde5e8f45b12" />
 <img width="1143" height="604" alt="image" src="https://github.com/user-attachments/assets/3b2de151-eed4-4424-9146-12d619dfd1ec" />
 
-
-
+#Link to GITHUB
+https://github.com/ST10388547/HaircraftCo/

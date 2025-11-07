@@ -55,3 +55,5 @@ AI assistance was cited appropriately and used ethically for learning and produc
 
 #Link to GITHUB
 https://github.com/ST10388547/HaircraftCo/
+#Link to video Presentation
+https://youtube.com/shorts/TDLK6pvVNUY?si=frHnZiUUMZdCnMw_

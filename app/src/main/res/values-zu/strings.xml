@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HairCraftCo</string>
+    <string name="settings_title">Izilungiselelo</string>
+    <string name="select_language">Khetha ulimi</string>
+    <string name="apply_changes">Faka Izinguquko</string>
+    <string name="language_changed">Ulimi luguquliwe!</string>
+    <string name="offline_status">Imodi engaxhunyiwe: Ayikho inthanethi</string>
+    <string name="online_status">Imodi exhunyiwe: Kuxhunyiwe</string>
+</resources>

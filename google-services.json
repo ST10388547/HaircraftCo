@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "948204399405",
+    "project_id": "haircraftco-d140a",
+    "storage_bucket": "haircraftco-d140a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948204399405:android:c692ff2fad685009a881a4",
+        "android_client_info": {
+          "package_name": "com.example.haircraftco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948204399405-au222i6qmf5sn9eipedaakfd5r1kfa3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haircraftco",
+            "certificate_hash": "668abe105e827b768849e5c4d6c061dac3cc87e0"
+          }
+        },
+        {
+          "client_id": "948204399405-4f7d2ekp9duh8shmd1h6q8g12g9j05it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2q4Xeh7gF9rhFyGaWgsNxRkPNEsh_YTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948204399405-4f7d2ekp9duh8shmd1h6q8g12g9j05it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

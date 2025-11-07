@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HaircraftCo</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="default_web_client_id"> 948204399405-au222i6qmf5sn9eipedaakfd5r1kfa3i.apps.googleusercontent.com</string>
+    <string name="settings_title">Settings</string>
+    <string name="select_language">Select Language</string>
+    <string name="apply_changes">Apply Changes</string>
+    <string name="language_changed">Language updated!</string>
+    <string name="offline_status">Offline Mode: No internet</string>
+    <string name="online_status">Online Mode: Connected</string>
+</resources>

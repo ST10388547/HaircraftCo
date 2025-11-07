@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HairCraftCo</string>
+    <string name="settings_title">Instellings</string>
+    <string name="select_language">Kies Taal</string>
+    <string name="apply_changes">Pas Veranderinge Toe</string>
+    <string name="language_changed">Taal opgedateer!</string>
+    <string name="offline_status">Aflynmodus: Geen internet</string>
+    <string name="online_status">Aanlynmodus: Gekoppel</string>
+</resources>
